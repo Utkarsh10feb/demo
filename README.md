@@ -1,4 +1,4 @@
 # demo
 This is my demo repository
 <br>
-Author - Utkarsh Shukla
+Author - Utkarsh Shukla (Demo Project)
